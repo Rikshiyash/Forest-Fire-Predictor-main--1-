@@ -20,7 +20,7 @@ Responsive UI – Works across devices.
 
 1️⃣ Clone the repository
 
-git clone https://github.com/shaurya7303/forest-fire-predictor.git cd forest-fire-prediction
+git clone https://github.com/Rikshiyash/Forest-Fire-Predictor-main--1-.git cd forest-fire-prediction
 
 2️⃣ Create a virtual environment
 
